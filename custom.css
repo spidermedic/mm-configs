@@ -1,0 +1,39 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+
+ body {
+ 	
+ }
+
+ header {
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family: "Roboto Condensed", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    border-bottom: 1px solid #cdcdcd;
+    line-height: 15px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    color: #cdcdcd;
+  }
+
+  .green-text {
+    color: #90EE90;
+  }
+
+  .wi {
+    color: #FAFAD2;
+  }
+
+  .wind {
+    color: #BCDDFF
+  }
