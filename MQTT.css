@@ -1,0 +1,21 @@
+
+.border_bottom td{
+    border-bottom: 1pt solid #444444;
+}
+
+.border_top td{
+    border-top: 1pt solid #444444;
+}
+
+td {
+    padding-right: 5px;
+}
+
+.mqtt-label, .mqtt-value, .mqtt-suffix {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.mqtt-value {
+    color: #90EE90;
+}
